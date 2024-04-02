@@ -26,6 +26,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d324acc7fc17add0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orientação a Objeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc22a87680d31de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpretador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -153,13 +177,16 @@
   },
   "active": "d53208832c4ec252",
   "lastOpenFiles": [
-    "anotações/matemática/Função polinomial.md",
-    "anotações/matemática/Função polinomial de segundo grau.md",
+    "anotações/programação/Python.md",
+    "anotações/matemática/Triângulo.md",
+    "anotações/matemática/Polinômio.md",
     "anotações/matemática/Polígonos.md",
     "anotações/matemática/Geometria Plana.md",
-    "anotações/matemática/Triângulo.md",
+    "Orientação a Objeto.md",
+    "Interpretador.md",
+    "anotações/matemática/Função polinomial.md",
+    "anotações/matemática/Função polinomial de segundo grau.md",
     "anotações/matemática/Função.md",
-    "anotações/matemática/Polinômio.md",
     "README.md",
     "imagens/matemâtica/!.jpg",
     "imagens/matemâtica/.jpg",

@@ -1,3 +1,4 @@
+#matemática 
 ## Definição:
 
 **a área da matemática que estuda as figuras planas**, iniciando-se nos conceitos primitivos de ponto, reta e plano, e, com base neles, desenvolvendo-se até a construção das figuras planas, com o cálculo de suas respectivas áreas e perímetros.
