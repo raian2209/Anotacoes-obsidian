@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "7e2096cafb45084c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61d24c954990688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180ffb68834a182e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anotações/matemática/Função polinomial de segundo grau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53208832c4ec252",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "827e7cd7e1aefd41",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3c6244f222e6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900af0d8f0a2cbcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27c7ea8041fb1e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Fisica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0a6744ee7ddb69b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfd12ea1c7d5792f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b199d766020cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e160f274e6d011",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e2b236486ea454",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10ea054ee3092943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1bb744a4e33e2ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d53208832c4ec252",
+  "lastOpenFiles": [
+    "anotações/matemática/Função polinomial.md",
+    "anotações/matemática/Função polinomial de segundo grau.md",
+    "anotações/matemática/Polígonos.md",
+    "anotações/matemática/Geometria Plana.md",
+    "anotações/matemática/Triângulo.md",
+    "anotações/matemática/Função.md",
+    "anotações/matemática/Polinômio.md",
+    "README.md",
+    "imagens/matemâtica/!.jpg",
+    "imagens/matemâtica/.jpg",
+    "imagens/matemâtica/Screenshot from 2024-04-01 19-15-15.jpg",
+    "imagens/matemâtica/Gráfico_2º_Grau (1).jpg",
+    "imagens/matemâtica/Gráfico_2º_Grau (1).jpg.crdownload",
+    "imagens/matemâtica/Gráfico_2º_Grau.PNG",
+    "imagens/matemâtica/Gráfico_2º_Grau.PNG.crdownload",
+    "anotações/matemâtica/Funções polinomiais de grau um.md",
+    "anotações/programação",
+    "anotações/química",
+    "anotações/matemática",
+    "anotações/biologia",
+    "anotações/Física",
+    "anotações",
+    "imagens/programação",
+    "imagens/química"
+  ]
+}

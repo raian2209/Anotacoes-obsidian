@@ -1,2 +1,15 @@
-# Anotacoes-obsidian
- Meu repossitorio particular de anotações
+# Anotações-obsidian
+ Meu repositório particular de anotações
+
+sobre:
+
+#Física
+
+#biologia
+
+#matemática
+
+#química
+
+#programação
+
