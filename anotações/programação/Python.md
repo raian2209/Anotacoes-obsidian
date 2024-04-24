@@ -1,7 +1,8 @@
 #programação 
-## Definições
+## Definições:
 
-* linguagem interpretada 
+* [[Programming Languages]]
+* interpretada 
 	* [[Interpretador]] : CPython
 * dinamicamente tipada 
 	*  [[Typing]]
