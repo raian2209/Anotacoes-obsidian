@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "29fb2abdda4e4814",
+        "id": "3a99485b574d96a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0e752bb5bcbbe55c",
+            "id": "d952619f8e03d5c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "anotações/programação/Bitcoin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fisica",
+                "query": "tag:#programação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "anotações/programação/Bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "anotações/programação/Bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "anotações/programação/Bitcoin.md"
+              }
             }
           }
         ]
@@ -139,11 +147,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0e752bb5bcbbe55c",
+  "active": "d952619f8e03d5c2",
   "lastOpenFiles": [
+    "Screenshot from 2024-10-01 09-38-06.png",
+    "Screenshot from 2024-10-01 09-19-51.png",
+    "Screenshot from 2024-10-01 09-02-04.png",
+    "anotações/programação/Bitcoin.md",
     "anotações/matemática/Função polinomial de segundo grau.md",
-    "Interpretador.md",
     "anotações/programação/Python.md",
+    "Garbage collector.md",
+    "Typing.md",
+    "README.md",
+    "Orientação a Objeto.md",
+    "Interpretador.md",
     "semantics.md",
     "Programming Languages.md",
     "anotações/matemática/Polígonos.md",
@@ -152,10 +168,8 @@
     "anotações/matemática/Triângulo.md",
     "anotações/matemática/Polinômio.md",
     "anotações/matemática/Geometria Plana.md",
-    "Orientação a Objeto.md",
     "anotações/matemática/Função polinomial.md",
     "anotações/matemática/Função.md",
-    "README.md",
     "imagens/matemâtica/!.jpg",
     "imagens/matemâtica/.jpg",
     "imagens/matemâtica/Screenshot from 2024-04-01 19-15-15.jpg",

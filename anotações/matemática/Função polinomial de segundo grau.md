@@ -17,7 +17,7 @@ $$ \Delta = b^2 -4ac$$
 ## Vértices
 
 * x:
-	 $$x_{vertice} = -\frac{b}{2a}$$
+	 $$ x_{vertice} = -\frac{b}{2a} $$
 	 Obs: pode ser feita a dedução por calculo diferencial integral, derivando a função polinomial de segundo grau é igualando a zero assim achando o máximo ou o minimo a depender do valor de a.
 * y:
 	  $$y_{vertice} = -\frac{\Delta}{4a}$$
