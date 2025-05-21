@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fdf1164a6c581e",
+        "id": "40a333e211bdaa82",
         "type": "tabs",
         "children": [
           {
-            "id": "e289000be49c0ff8",
+            "id": "74cd171b9546181b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotações/Enem/Quimica/Mol.md",
+                "file": "Arquitetura/Relatorio unidade1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mol"
+              "title": "Relatorio unidade1"
             }
           }
         ]
@@ -166,10 +166,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e289000be49c0ff8",
+  "active": "900af0d8f0a2cbcb",
   "lastOpenFiles": [
-    "anotações/Enem/Fisica/Primeira Lei da Termodinâmica.md",
+    "Arquitetura/not.png",
+    "anotações/programação/Bitcoin.md",
+    "semantics.md",
+    "Screenshot from 2024-10-01 09-19-51.png",
+    "Screenshot from 2024-10-01 09-02-04.png",
+    "Garbage collector.md",
+    "Interpretador.md",
+    "lexer.md",
+    "Orientação a Objeto.md",
+    "Programming Languages.md",
+    "README.md",
+    "Arquitetura/Relatorio unidade1.md",
+    "Arquitetura",
     "anotações/Enem/Quimica/Mol.md",
+    "anotações/Enem/Fisica/Primeira Lei da Termodinâmica.md",
     "anotações/Enem/Quimica",
     "anotações/Enem/ENEM.md",
     "anotações/Enem/Fisica",
@@ -181,26 +194,14 @@
     "anotações/matemática/Função polinomial.md",
     "anotações/Enem/Linguagens, Códigos e suas Tecnologias.md",
     "anotações/Enem/Matemática e suas Tecnologias.md",
-    "Garbage collector.md",
     "anotações/Enem",
     "anotações/matemática/Função polinomial de segundo grau.md",
     "anotações/matemática/Função.md",
-    "Orientação a Objeto.md",
-    "Programming Languages.md",
     "Untitled.canvas",
     "Screenshot from 2024-10-01 09-38-06.png",
-    "Screenshot from 2024-10-01 09-19-51.png",
-    "Screenshot from 2024-10-01 09-02-04.png",
-    "anotações/programação/Bitcoin.md",
     "anotações/programação/Python.md",
     "Typing.md",
-    "README.md",
-    "Interpretador.md",
-    "semantics.md",
     "anotações/matemática/Polígonos.md",
-    "Syntax.md",
-    "lexer.md",
-    "anotações/matemática/Triângulo.md",
     "imagens/matemâtica/!.jpg",
     "imagens/matemâtica/.jpg",
     "imagens/matemâtica/Screenshot from 2024-04-01 19-15-15.jpg",
@@ -211,7 +212,6 @@
     "anotações/programação",
     "anotações/química",
     "anotações/matemática",
-    "anotações/biologia",
-    "anotações/Física"
+    "anotações/biologia"
   ]
 }
