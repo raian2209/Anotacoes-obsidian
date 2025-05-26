@@ -93,9 +93,9 @@ a entrada descrita como <strong>  in[8] </strong>  onde o primeiro bit de  entra
 
 Com o objetivo final de ser  usada na ULA , fazendo a checagem se o  output  é zero aplicando a porta nos 8 primeiros bits é nos 8 últimos da saída é depois aplicando uma porta Or simples   
 
-### Expressão booleana:
+### Porta Logica:
 
-$\text{NAND}(\overline{\text{a}}, \overline{\text{b}}) = \text{out}$
+![[Or8wai.png]]
 
 
 ---
@@ -108,14 +108,56 @@ $\text{NAND}(\overline{\text{a}}, \overline{\text{b}}) = \text{out}$
 
 a entrada descrita como <strong>  a </strong> é  negada e sera  colocada em uma entrada é  a <strong>  b </strong> em outra entrada de uma porta <Strong>And</Strong> , <strong>  a </strong> sera  colocada em uma entrada é  a <strong>  b </strong> é  negada  sendo colocada em outra porta <Strong>And</Strong> , a saída  dessas duas portas logicas é  colocada em uma porta logica <Strong>Or</Strong> assim a saída dessa porta sendo o out e assim obtendo a porta logica <Strong>XOR</Strong>
 
+### Porta Logica:
+![[XOR_CHIP.png]]
+
+### Tabela Verdade: 
+![[XOR_TAB.png]]
+
 ---
 ### CHIP MUX:
+
+### Descrição CHIP:
+<strong>  a </strong>: entrada , unitária de um Bit
+<strong>  b </strong>: entrada , unitária de um Bit
+<strong>  Sel</strong>: seletor de a ou b , unitária de um Bit
+<strong>  out </strong>: saída unitária de um Bit
+
+a entrada  <strong>  a </strong> é colocada em uma porta <strong >and</strong> Junto com a entrada <strong >Sel </strong> negada,   <strong>  b </strong> é  colocada em outra porta <strong >and</strong> com o seletor como outra entrada. As duas saídas dessas duas portas <strong >and</strong>  é colocada como entrada em uma porta <strong >Or</strong>    assim a saída dessa porta sendo o out e assim obtendo o CHIP <Strong>MUX</Strong>
+
+Sendo sendo comparado com  um if em linguagem de programação tendo o mesmo comportamento  
+
+### Porta Logica:
+![[tabMUX.png]]
+### Tabela Verdade: 
+![[MUX.png]]
 
 ---
 ### CHIP MUX16:
 
+### Descrição CHIP:
+<strong>  a </strong>: entrada , 16 Bits 
+<strong>  b </strong>: entrada , 16 Bits
+<strong>  Sel</strong>: seletor de a ou b , unitária de um Bit
+<strong>  out </strong>: saída, 16 Bits
+
+Tem o mesmo comportamento do <Strong>Mux </Strong> mas mudando a largura de entrada <strong>a</strong>,<strong>b</strong>  é de saída <strong>out</strong> desse chip.
+
 ---
 ### CHIP MUX4Way16:
+
+### Descrição CHIP:
+<strong>  a </strong>: entrada , 16 Bits 
+<strong>  b </strong>: entrada , 16 Bits
+<strong>  c </strong>: entrada , 16 Bits
+<strong>  d </strong>: entrada , 16 Bits
+<strong>  Sel</strong>: seletor de a ou b ou c ou d,   dois Bits
+<strong>  out </strong>: saída, 16 Bits
+
+Tem o mesmo comportamento do <Strong>Mux </Strong> mas mudando a largura de entrada <strong>a</strong>,<strong>b</strong> ,<strong>c</strong> ou <strong>d</strong>  é que por ter 4 entradas o <strong>sel </storng> tem largura de  dois bits então pode escolher entre 4 possibilidades de saída arquitetura desse chip consiste em dois Mux na primeira onde as entradas são os valores de entrada é o bit de SEL é o primeiro é depois a saída desses MUX vão na entrada do próximo é o bit de SEL é o segundo bit é então obtemos o  <strong>out</strong> .
+
+
+
 ---
 ### CHIP MUX8Way16:
 ---
@@ -129,12 +171,12 @@ a entrada descrita como <strong>  a </strong> é  negada e sera  colocada em uma
 
 
 ---
-### CHIP MUX4Way16:
+### CHIP FULL_ADD:
 ---
-### CHIP MUX8Way16:
+### CHIP HALF_ADD:
 ---
-### CHIP DMux:
+### CHIP ADD16:
 ---
-### CHIP DMux4Way:
+### CHIP INC16:
 ---
-### CHIP DMux8Way:
+### CHIP ALU:

@@ -11,17 +11,64 @@
             "id": "74cd171b9546181b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Arquitetura/Relatorio unidade1.md",
-                "mode": "source",
-                "source": false
+                "file": "Arquitetura/Captura de tela de 2025-05-14 09-22-26.png"
               },
-              "icon": "lucide-file",
-              "title": "Relatorio unidade1"
+              "icon": "lucide-image",
+              "title": "Captura de tela de 2025-05-14 09-22-26"
+            }
+          },
+          {
+            "id": "cd7a7c7b251f3370",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquitetura/Captura de tela de 2025-05-12 10-34-09.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de tela de 2025-05-12 10-34-09"
+            }
+          },
+          {
+            "id": "e308cd5df386338f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquitetura/Captura de tela de 2025-05-12 10-34-30.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de tela de 2025-05-12 10-34-30"
+            }
+          },
+          {
+            "id": "92bf9749aa67b8bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquitetura/Captura de tela de 2025-05-12 10-34-09.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de tela de 2025-05-12 10-34-09"
+            }
+          },
+          {
+            "id": "525e65da893a9ef5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquitetura/Captura de tela de 2025-05-14 09-22-44.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de tela de 2025-05-14 09-22-44"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,13 +213,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "74cd171b9546181b",
+  "active": "525e65da893a9ef5",
   "lastOpenFiles": [
-    "Arquitetura/not.png",
     "Arquitetura/Relatorio unidade1.md",
-    "Screenshot from 2024-10-01 09-38-06.png",
-    "Screenshot from 2024-10-01 09-19-51.png",
-    "Screenshot from 2024-10-01 09-02-04.png",
+    "Arquitetura/tabMUX.png",
+    "Arquitetura/MUX.png",
+    "Arquitetura/Captura de tela de 2025-05-12 10-42-48.png",
+    "Arquitetura/Captura de tela de 2025-05-14 09-22-26.png",
+    "Arquitetura/Captura de tela de 2025-05-12 10-34-09.png",
+    "Arquitetura/Captura de tela de 2025-05-12 10-34-30.png",
+    "Arquitetura/Captura de tela de 2025-05-12 10-42-20.png",
+    "Arquitetura/Captura de tela de 2025-05-14 09-22-44.png",
+    "Arquitetura/ALU.png",
+    "Arquitetura/Or8wai.png",
     "anotações/programação/Bitcoin.md",
     "semantics.md",
     "Garbage collector.md",
@@ -202,12 +255,7 @@
     "anotações/programação/Python.md",
     "Typing.md",
     "anotações/matemática/Polígonos.md",
-    "imagens/matemâtica/!.jpg",
-    "imagens/matemâtica/.jpg",
-    "imagens/matemâtica/Screenshot from 2024-04-01 19-15-15.jpg",
-    "imagens/matemâtica/Gráfico_2º_Grau (1).jpg",
     "imagens/matemâtica/Gráfico_2º_Grau (1).jpg.crdownload",
-    "imagens/matemâtica/Gráfico_2º_Grau.PNG",
     "imagens/matemâtica/Gráfico_2º_Grau.PNG.crdownload",
     "anotações/programação",
     "anotações/química",
