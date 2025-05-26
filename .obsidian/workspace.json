@@ -59,12 +59,14 @@
             "id": "525e65da893a9ef5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Arquitetura/Captura de tela de 2025-05-14 09-22-44.png"
+                "file": "Arquitetura/Relatorio unidade1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Captura de tela de 2025-05-14 09-22-44"
+              "icon": "lucide-file",
+              "title": "Relatorio unidade1"
             }
           }
         ],
@@ -215,6 +217,8 @@
   },
   "active": "525e65da893a9ef5",
   "lastOpenFiles": [
+    "Arquitetura/Captura de tela de 2025-05-14 09-22-44.png",
+    "Arquitetura/Mux8Way.png",
     "Arquitetura/Relatorio unidade1.md",
     "Arquitetura/tabMUX.png",
     "Arquitetura/MUX.png",
@@ -223,7 +227,6 @@
     "Arquitetura/Captura de tela de 2025-05-12 10-34-09.png",
     "Arquitetura/Captura de tela de 2025-05-12 10-34-30.png",
     "Arquitetura/Captura de tela de 2025-05-12 10-42-20.png",
-    "Arquitetura/Captura de tela de 2025-05-14 09-22-44.png",
     "Arquitetura/ALU.png",
     "Arquitetura/Or8wai.png",
     "anotações/programação/Bitcoin.md",

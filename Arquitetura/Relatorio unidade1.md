@@ -156,12 +156,31 @@ Tem o mesmo comportamento do <Strong>Mux </Strong> mas mudando a largura de entr
 
 Tem o mesmo comportamento do <Strong>Mux </Strong> mas mudando a largura de entrada <strong>a</strong>,<strong>b</strong> ,<strong>c</strong> ou <strong>d</strong>  é que por ter 4 entradas o <strong>sel </storng> tem largura de  dois bits então pode escolher entre 4 possibilidades de saída arquitetura desse chip consiste em dois Mux na primeira onde as entradas são os valores de entrada é o bit de SEL é o primeiro é depois a saída desses MUX vão na entrada do próximo é o bit de SEL é o segundo bit é então obtemos o  <strong>out</strong> .
 
+### Porta Logica:
+![[Mux8Way.png]]
+
 
 
 ---
 ### CHIP MUX8Way16:
+
+### Descrição CHIP:
+<strong>  a </strong>: entrada , 16 Bits 
+<strong>  b </strong>: entrada , 16 Bits
+<strong>  c </strong>: entrada , 16 Bits
+<strong>  d </strong>: entrada , 16 Bits
+<strong> e </strong>: entrada , 16 Bits 
+<strong>  f </strong>: entrada , 16 Bits
+<strong>  g </strong>: entrada , 16 Bits
+<strong>  h </strong>: entrada , 16 Bits
+<strong>  Sel</strong>: seletor de a ou b ou c ou d ou e ou f ou g ou h ,   3 Bits
+<strong>  out </strong>: saída, 16 Bits
+
+Tem as mesma função de Mux4way16 so que com o dobro das opções é com mais um bit de seleção para se adequar a quantidades de entrada. 
+
 ---
 ### CHIP DMux:
+
 ---
 ### CHIP DMux4Way:
 ---
