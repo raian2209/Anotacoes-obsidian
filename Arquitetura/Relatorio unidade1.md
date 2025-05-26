@@ -181,6 +181,20 @@ Tem as mesma função de Mux4way16 so que com o dobro das opções é com mais u
 ---
 ### CHIP DMux:
 
+### Descrição CHIP:
+<strong>  in </strong>: entrada , 16 Bits 
+<strong>  Sel</strong>: seletor de a ou b ou c ou d ou e ou f ou g ou h ,   3 Bits
+<strong>  a </strong>: saída , 16 Bits 
+<strong>  b </strong>: saída , 16 Bits
+
+o Comportamento é que a In vai para uma das saida a partir do Sel entre a ou b se for a o outro sera colocado 0 o contrario tambem é valido.
+
+### Porta Logica:
+![[dmux.png]]
+### Tabela Verdade :
+![[dmuxtab.png]]
+
+
 ---
 ### CHIP DMux4Way:
 ---
